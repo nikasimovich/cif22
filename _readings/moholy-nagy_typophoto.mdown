@@ -1,5 +1,0 @@
----
-title:            Typophoto
-author:           Laszlo Moholy Nagy
-link:             /assets/readings/moholy-nagy-laszlo-typophoto.pdf
----
