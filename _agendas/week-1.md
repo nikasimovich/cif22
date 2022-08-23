@@ -1,8 +1,8 @@
 ---
 title:            Week 1
-start_date:       2021-09-01 00:00:00 -0500
-date_range:       08/31
-summary: Intros, Syllabus, Code of Conduct, Student Slideshows
+start_date:       2022-08-30 00:00:00 -0500
+date_range:       08/30
+summary: Intros, Syllabus, Code of Conduct, Student Gif Presentations
 ---
 
 ### Tuesday, In Class
