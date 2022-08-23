@@ -11,7 +11,7 @@ summary: Intros, Syllabus, Code of Conduct, Student Gif Presentations
 - [Syllabus overview](/syllabus)
 - [Introduce Harmonic Collection](/projects/harmonic-collection)
 - [Code of Conduct Creation](https://paper.dropbox.com/doc/F21-Core-Interaction-1-Code-of-Conduct--BRQjqg9ZzJhM5t5ETNPiRxDvAQ-U7TZMGIuGrpF6EVVfR4c6)
-- Students upload slideshows to Canvas and share their slideshows
+- Students upload Gifs to Canvas and introduce one another
 - Go over homework
 
 ### Homework
