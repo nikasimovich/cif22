@@ -17,9 +17,7 @@ summary: Intros, Syllabus, Code of Conduct, Student Gif Presentations
 - Time permitting, introduction to HTML
 
 ### Homework
-1. Come to class with three ideas for your Harmonic Collection’s theme. This can be created in a google slide or a PDF and should be ready to be shared at the start of class. Your presentation should include (for each idea) – 1 slide that explains the idea generally and visually; 1 art board that explains why you&rsquo;re interested in the idea; and then 2 or 3 additional slides that highlight some visual examples of sketches, inspiration, ideas, or other websites you like
+1. Come to class with three ideas for your Harmonic Collection’s theme. This can be created in a google slide or a PDF and should be ready to be shared at the start of class. Your presentation should include (for each idea) – 1 slide that explains the idea generally and visually; 1 slide that explains why you&rsquo;re interested in the idea; and then 2 or 3 additional slides that highlight some visual examples of sketches, inspiration, ideas, or other websites you like
 2. Look out for an invitation for Figma from me
-3. Create a glitch account if you haven&rsquo;t already
-
 
 
