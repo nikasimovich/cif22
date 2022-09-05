@@ -352,6 +352,7 @@ li.agenda {
 a.agenda__row {
   &:hover {
     background-color: $hover-accent-color;
+    color: $site-background-color;
   }
 }
 
