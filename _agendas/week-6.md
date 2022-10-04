@@ -3,6 +3,7 @@ title:            Week 6
 start_date:       2022-09-19 00:00:00 -0500
 date_range:       10/03
 summary: Media queries, flexbox
+---
 
 ### Tuesday, In Class
 
