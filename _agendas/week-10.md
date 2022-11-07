@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2022-09-19 00:00:00 -0500
+start_date:       2022-11-01 00:00:00 -0500
 date_range:       11/01
 summary: CSS Positioning, JavaScript Intro
 ---
