@@ -1,5 +1,5 @@
 ---
-title:            Week 11
+title:            Week 12
 start_date:       2022-11-01 00:00:00 -0500
 date_range:       11/14
 summary: JavaScript hackathon slash pop quiz
